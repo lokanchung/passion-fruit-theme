@@ -12,5 +12,6 @@ Color palettes:
 
 Supported Languages:
 * Rust
+![](./img/rust.png)
 
 **Enjoy!**
