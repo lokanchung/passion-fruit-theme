@@ -1,6 +1,8 @@
 # Passion Fruit Theme 
 ## Code with Passion!!
-This theme is based panda syntax. 
+This theme is based on panda syntax. 
+
+Passion Fruit theme is tropical theme color scheme that are consistent and easy on eyes.
 
 Color palettes:
 * Comments: ![#559955](https://via.placeholder.com/15/559955/000000?text=+) `#559955`
@@ -13,5 +15,7 @@ Color palettes:
 Supported Languages:
 * Rust
 ![](./img/rust.png)
+* Json
 
-**Enjoy!**
+To be supported:
+* Javascript
