@@ -17,5 +17,8 @@
                 "path": "./themes/Passion Fruit Theme-color-theme.json"
             }
         ]
+    },
+    "dev-dependencies": {
+        "vsce": "^2.2.0"
     }
 }

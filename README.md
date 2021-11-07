@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "passion-fruit-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Passion Fruit Theme 
+## Code with Passion!!
+This theme is based panda syntax. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Color palettes:
+* Comments: ![#559955](https://via.placeholder.com/15/559955/000000?text=+) `#559955`
+* Keywords: ![#FF75B5](https://via.placeholder.com/15/FF75B5/000000?text=+) `#FF75B5`
+* Variables: ![#FFCC95](https://via.placeholder.com/15/FFCC95/000000?text=+) `#FFCC95`
+* Types: ![#FDA950](https://via.placeholder.com/15/FDA950/000000?text=+) `#FDA950`
+* Functions: ![#6FC1FF](https://via.placeholder.com/15/6FC1FF/000000?text=+) `#6FC1FF`
+* Macros: ![#B084EB](https://via.placeholder.com/15/B084EB/000000?text=+) `#B084EB`
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Supported Languages:
+* Rust
 
 **Enjoy!**
